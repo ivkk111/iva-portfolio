@@ -1,0 +1,102 @@
+html{
+	background-color: #ececec;
+	font-family: 'Helvetica';
+	margin: 5px 5px;
+
+}
+
+.portfolio{
+	color: #0206d9;
+	font-family: 'Helvetica';
+	font-size: 80px;
+	font-weight: 1200;
+	text-align: center;
+}
+
+.iva{
+	color: #0206d9;
+	font-family: 'Helvetica';
+	font-size: 15px;
+	font-weight: 200;
+	position: absolute;
+	text-align: center;
+	width: 80px;
+	left: 680px;
+	top: 320px;
+}
+
+.card{
+	width: 230px;
+	height: 340px;
+	display: inline-block;
+	border-radius: 20px;
+	padding:15px 125px ;
+	box-sizing: border-box;
+	cursor:pointer;
+	margin: 25px 50px;
+	background-position: center;
+	background-size: cover;
+	
+}
+
+.card1{
+	background-image: url(duloggo-17.jpg);
+}
+
+.card2{
+	background-image: url(gradientmain-2.jpg);
+}
+
+.card3{
+	background-image: url(youspectrum.jpg);
+}
+
+.card4{
+	background-image: url(img37.jpg);
+}
+
+.card5{
+	background-image: url(getlost.jpg);
+}
+
+.card6{
+	background-image: url(softtears4.jpg);
+}
+
+.card7{
+	background-image: url(identitett.jpg);
+}
+
+.card8{
+	background-image: url(identitett.jpg);
+}
+
+body footer {
+	font-family: 'Helvetica';
+	font-size: 22px;
+	font-weight: 800;
+	width: 100%;
+	margin:30px 10px;
+	text-align: center;
+	display: grid;
+	grid-template-columns: auto auto auto auto;
+}
+
+body footer a {
+	color: #0206d9;
+	text-decoration: none;
+}
+
+button{
+	font-family: 'Helvetica';
+	font-size: 14px;
+	font-weight: 280px;
+	width: 100px;
+	height: 28px;
+	color:#0206d9 ;
+	background:#ececec ;
+	border: 0;
+	border-radius: 30px;
+	outline: 0;
+	cursor: pointer;
+}
